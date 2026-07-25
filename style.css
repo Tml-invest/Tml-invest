@@ -1118,7 +1118,7 @@ section{
 @media (max-width:768px){
 
     header .container{
-    padding:4px 0;
+    padding:0px 0;
     }    
 
 
@@ -1128,11 +1128,11 @@ section{
     }
 
     .logo img{
-        width:95px;
+        width:105px;
     }
 
     header{
-        padding:6px 0;
+        padding:4px 0;
     }
 
     .menu-toggle{
