@@ -1118,7 +1118,7 @@ section{
 @media (max-width:768px){
 
     header .container{
-    padding:8px 0;
+    padding:4px 0;
     }    
 
 
@@ -1128,7 +1128,7 @@ section{
     }
 
     .logo img{
-        width:80px;
+        width:95px;
     }
 
     header{
