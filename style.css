@@ -973,7 +973,7 @@ display:none;
 
 .footer{
 
-    background:#D4AF37;
+    background:#000;
     padding:70px 0 35px;
 
 }
@@ -1006,7 +1006,7 @@ display:none;
 
 .footer-nav a{
 
-    color:#000;
+    color:#fff;
     text-decoration:none;
     font-weight:500;
     transition:.3s;
@@ -1021,7 +1021,7 @@ display:none;
 
 .copyright{
 
-    color:#000;
+    color:#fff;
     opacity:.75;
     font-size:14px;
 
