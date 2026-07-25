@@ -824,6 +824,20 @@ nav a{
 
 }
 
+.contact-box a{
+    color:#fff;
+    text-decoration:none;
+}
+
+.contact-box a:visited{
+    color:#fff;
+}
+
+.contact-box a:hover{
+    color:#D4AF37;
+}
+
+
 .contact-form{
 
     background:#111;
